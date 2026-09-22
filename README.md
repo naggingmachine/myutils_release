@@ -11,7 +11,7 @@ See the **[MyUtils overview page](https://myutils-mac.vercel.app/)** for a visua
 
 ## 다운로드 · Download
 
-- **최신 버전 / Latest**: **v2.17.0** (2026-09-22) — [MyUtil-2.17.0.dmg](https://github.com/naggingmachine/myutil-releases/releases/download/v2.17.0/MyUtil-2.17.0.dmg) · [릴리스 노트 / Release notes](https://github.com/naggingmachine/myutil-releases/releases/tag/v2.17.0) · [모든 버전 / All releases](https://github.com/naggingmachine/myutil-releases/releases)
+- **최신 버전 / Latest**: **v2.17.0** (2026-09-22) — [MyUtil-2.17.0.dmg](https://github.com/naggingmachine/myutil-releases/releases/download/v2.17.0/MyUtil-2.17.0.dmg) · [릴리스 노트 / Release notes](https://github.com/naggingmachine/myutil-releases/releases/tag/v2.17.0) · [모든 버전 / All releases](https://github.com/naggingmachine/myutils_release/releases)
 - macOS 14 Sonoma 이상, Apple Silicon / Intel. Developer ID 서명과 Apple 공증이 완료되어 경고 없이 실행됩니다.
 
 ### 설치 · Install
