@@ -1,5 +1,5 @@
 {
-  "count": 90,
+  "count": 91,
   "categories": {
     "window": {
       "ko": "창·디스플레이",
@@ -1818,7 +1818,8 @@
       "category": "focus",
       "defaultEnabled": false,
       "permissions": [
-        "automation"
+        "automation",
+        "calendar"
       ],
       "name": {
         "ko": "iMessage 비서",
@@ -1829,6 +1830,24 @@
         "ko": "iPhone 에서 문자로 Mac 의 AI 비서와 대화합니다",
         "en": "Text your Mac's AI assistant from your iPhone",
         "ja": "iPhoneからメッセージでMacのAIアシスタントと会話します"
+      }
+    },
+    {
+      "target": "VolumeSpace",
+      "id": "volume-space",
+      "symbol": "internaldrive",
+      "category": "files",
+      "defaultEnabled": true,
+      "permissions": [],
+      "name": {
+        "ko": "볼륨 공간",
+        "en": "Volume Space",
+        "ja": "ボリューム空き容量"
+      },
+      "summary": {
+        "ko": "연결된 모든 볼륨의 남은 공간을 한눈에 보고 부족해지면 알려 줍니다",
+        "en": "See free space on every mounted volume at a glance and hear about it before it runs out",
+        "ja": "接続されたすべてのボリュームの空き容量をひと目で確認し、足りなくなる前に知らせます"
       }
     }
   ]

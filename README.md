@@ -1,6 +1,6 @@
 # MyUtils - All In One
 
-**90 macOS utilities in one menu bar app.** Window snapping, screen capture, PDF/image/text editors, media conversion, clipboard history and more — each one a module you can switch on or off. Korean, English and Japanese UI.
+**91 macOS utilities in one menu bar app.** Window snapping, screen capture, PDF/image/text editors, media conversion, clipboard history and more — each one a module you can switch on or off. Korean, English and Japanese UI.
 
 ## Overview
 
@@ -8,7 +8,7 @@ See the **[MyUtils overview page](https://www.myutils.app/)** for a visual tour.
 
 ## Download
 
-- **Latest**: **v2.22.0** (2026-09-26) — [MyUtil-2.22.0.dmg](https://github.com/naggingmachine/myutils_release/releases/download/v2.22.0/MyUtil-2.22.0.dmg) · [release notes](https://github.com/naggingmachine/myutils_release/releases/tag/v2.22.0) · [all releases](https://github.com/naggingmachine/myutils_release/releases)
+- **Latest**: **v2.23.0** (2026-09-26) — [MyUtil-2.23.0.dmg](https://github.com/naggingmachine/myutils_release/releases/download/v2.23.0/MyUtil-2.23.0.dmg) · [release notes](https://github.com/naggingmachine/myutils_release/releases/tag/v2.23.0) · [all releases](https://github.com/naggingmachine/myutils_release/releases)
 - macOS 14 Sonoma or later, Apple Silicon / Intel. Signed with a Developer ID and notarized by Apple, so it opens without warnings.
 - From 2.15.0 on, the app updates itself: **Settings > General > Update > Check now**.
 
@@ -87,6 +87,7 @@ Some modules need macOS permissions. Each module's settings page has a banner th
 | **Drag Shelf** | A temporary holding area for files you are dragging |
 | **Finder Plus** | Cut & paste, new file, copy path, open terminal |
 | **PDF Editor** | Merge and split PDFs, rotate pages, and add annotations and signatures |
+| **Volume Space** | See free space on every mounted volume at a glance and hear about it before it runs out |
 
 ### Media
 
