@@ -1,5 +1,5 @@
 {
-  "count": 89,
+  "count": 90,
   "categories": {
     "window": {
       "ko": "창·디스플레이",
@@ -871,7 +871,9 @@
       "symbol": "network",
       "category": "network",
       "defaultEnabled": true,
-      "permissions": [],
+      "permissions": [
+        "location"
+      ],
       "name": {
         "ko": "네트워크 정보",
         "en": "Network Info",
@@ -1760,7 +1762,7 @@
       "id": "pdf-editor",
       "symbol": "doc.richtext",
       "category": "files",
-      "defaultEnabled": false,
+      "defaultEnabled": true,
       "permissions": [],
       "name": {
         "ko": "PDF 편집",
@@ -1807,6 +1809,26 @@
         "ko": "탭·인코딩·찾아 바꾸기·문법 강조를 갖춘 일반 텍스트 편집기입니다",
         "en": "A general text editor with tabs, encodings, find & replace, and syntax highlighting",
         "ja": "タブ・文字コード・検索置換・構文ハイライトを備えた汎用テキストエディタです"
+      }
+    },
+    {
+      "target": "IMessageAgent",
+      "id": "imessage-agent",
+      "symbol": "message.badge.waveform",
+      "category": "focus",
+      "defaultEnabled": false,
+      "permissions": [
+        "automation"
+      ],
+      "name": {
+        "ko": "iMessage 비서",
+        "en": "iMessage Assistant",
+        "ja": "iMessageアシスタント"
+      },
+      "summary": {
+        "ko": "iPhone 에서 문자로 Mac 의 AI 비서와 대화합니다",
+        "en": "Text your Mac's AI assistant from your iPhone",
+        "ja": "iPhoneからメッセージでMacのAIアシスタントと会話します"
       }
     }
   ]
