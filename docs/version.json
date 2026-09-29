@@ -1,13 +1,13 @@
 {
-  "tag_name": "v2.25.3",
-  "name": "MyUtils 2.25.3",
-  "html_url": "https://github.com/naggingmachine/myutils_release/releases/tag/v2.25.3",
-  "published_at": "2026-09-27T07:59:34Z",
+  "tag_name": "v2.25.4",
+  "name": "MyUtils 2.25.4",
+  "html_url": "https://github.com/naggingmachine/myutils_release/releases/tag/v2.25.4",
+  "published_at": "2026-09-29T22:57:58Z",
   "assets": [
     {
-      "name": "MyUtil-2.25.3.dmg",
-      "size": 14864663,
-      "browser_download_url": "https://github.com/naggingmachine/myutils_release/releases/download/v2.25.3/MyUtil-2.25.3.dmg"
+      "name": "MyUtil-2.25.4.dmg",
+      "size": 14861467,
+      "browser_download_url": "https://github.com/naggingmachine/myutils_release/releases/download/v2.25.4/MyUtil-2.25.4.dmg"
     }
   ]
 }
