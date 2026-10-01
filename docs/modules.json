@@ -1,5 +1,5 @@
 {
-  "count": 91,
+  "count": 93,
   "categories": {
     "window": {
       "ko": "창·디스플레이",
@@ -50,6 +50,11 @@
       "ko": "시간·생산성",
       "en": "Time & Productivity",
       "ja": "時間・生産性"
+    },
+    "game": {
+      "ko": "게임",
+      "en": "Games",
+      "ja": "ゲーム"
     },
     "menubar": {
       "ko": "메뉴 막대",
@@ -115,6 +120,7 @@
     "network",
     "security",
     "focus",
+    "game",
     "menubar",
     "misc"
   ],
@@ -1848,6 +1854,42 @@
         "ko": "연결된 모든 볼륨의 남은 공간을 한눈에 보고 부족해지면 알려 줍니다",
         "en": "See free space on every mounted volume at a glance and hear about it before it runs out",
         "ja": "接続されたすべてのボリュームの空き容量をひと目で確認し、足りなくなる前に知らせます"
+      }
+    },
+    {
+      "target": "Games",
+      "id": "games",
+      "symbol": "gamecontroller",
+      "category": "game",
+      "defaultEnabled": true,
+      "permissions": [],
+      "name": {
+        "ko": "게임",
+        "en": "Games",
+        "ja": "ゲーム"
+      },
+      "summary": {
+        "ko": "잠깐 쉬어 갈 수 있는 퍼즐·아케이드 게임 스무 가지",
+        "en": "Twenty puzzle and arcade games for a short break",
+        "ja": "ひと休みできるパズル・アーケードゲーム20種"
+      }
+    },
+    {
+      "target": "DisplayOff",
+      "id": "display-off",
+      "symbol": "display.and.arrow.down",
+      "category": "window",
+      "defaultEnabled": true,
+      "permissions": [],
+      "name": {
+        "ko": "화면 끄기",
+        "en": "Screen Off",
+        "ja": "画面を消す"
+      },
+      "summary": {
+        "ko": "모니터만 끄고 하던 일은 그대로 둡니다",
+        "en": "Turns the monitor off and leaves everything you were doing alone",
+        "ja": "モニタだけを消し、作業はそのまま残します"
       }
     }
   ]
