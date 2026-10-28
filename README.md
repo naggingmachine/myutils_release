@@ -8,7 +8,7 @@ See the **[MyUtils overview page](https://www.myutils.app/)** for a visual tour.
 
 ## Download
 
-- **Latest**: **v3.1.0** (2026-10-28) — [MyUtil-3.1.0.dmg](https://github.com/naggingmachine/myutils_release/releases/download/v3.1.0/MyUtil-3.1.0.dmg) · [release notes](https://github.com/naggingmachine/myutils_release/releases/tag/v3.1.0) · [all releases](https://github.com/naggingmachine/myutils_release/releases)
+- **Latest**: **v3.2.0** (2026-10-28) — [MyUtil-3.2.0.dmg](https://github.com/naggingmachine/myutils_release/releases/download/v3.2.0/MyUtil-3.2.0.dmg) · [release notes](https://github.com/naggingmachine/myutils_release/releases/tag/v3.2.0) · [all releases](https://github.com/naggingmachine/myutils_release/releases)
 - macOS 14 Sonoma or later, Apple Silicon / Intel. Signed with a Developer ID and notarized by Apple, so it opens without warnings.
 - From 2.15.0 on, the app updates itself: **Settings > General > Update > Check now**.
 
